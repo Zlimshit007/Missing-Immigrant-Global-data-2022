@@ -49,6 +49,28 @@ FROM missing_immigrant GROUP BY Region;
 ```
 ![q2b](https://user-images.githubusercontent.com/114537955/229358544-b647d5bc-b945-49a8-9daf-aef596765337.png)
 
+***
+3. what is the total number of Females cases, Males cases, and Child cases recorded in
 
+a. all the total regions?  
+```sql
+SELECT
+SUM(Number_of_Females),
+SUM(Number_of_Males),
+SUM(Number_of_Children)
+FROM missing_immigrant;
 
+```
+![q3](https://user-images.githubusercontent.com/114537955/229358672-d8d25893-bfef-41b1-9b59-af999fd8f852.png)
 
+b. in each region? 
+```sql
+SELECT
+Region,
+SUM(Number_of_Females),
+SUM(Number_of_Males),
+SUM(Number_of_Children)
+FROM missing_immigrant GROUP BY Region;
+
+```
+![q3b](https://user-images.githubusercontent.com/114537955/229358752-a7c446da-8aa2-4816-98ae-069238f7b4a9.png)
