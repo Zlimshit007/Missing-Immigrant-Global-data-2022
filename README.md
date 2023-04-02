@@ -1,23 +1,20 @@
 ## Questions
-1. How many successful attacks were carried out, and what was the total number of deaths?
-2. Which target types were the most prominent in successful terrorist attacks?
-3. What was the most common attack type in successful terrorist attacks?
-4. Which regions have the highest number of successful terrorist activities?
-5. Which countries had the most terrorist attacks, and what were the number of fatalities, kidnappings, and injuries in those countries?
-6. What happened to the hostages who were kidnapped after the attacks?
-7. What are the top six weapon types used in successful terrorist attacks, based on the number of fatalities and injuries?
-8. What is the trend of successful terrorist attacks over the years?
+1. what region has the highest amount of incidents recorded?
+2. what is the total sum of death cases, Number of Missing cases, and Number of Survivors cases recorded in all the total regions and in each region? 
+3. what is the total number of Females cases, Males cases, and Child cases recorded in all the total regions and in each region?
+4. what is the most likely Cause of Death recorded in all the total regions and in each region?
+5. what month was the incident mostly Reported?
+6. what is the month with the highest number of death cases, Missing cases, Survivors cases, Female cases, Male cases, Children cases
+7. what is the most likely cause of death in the month of January?
+8. what is the most likely cause of death recorded in October?
 
 ***
 
 ## Solutions
-1. How many successful attacks were carried out, and what was the total number of deaths?
+1. what region has the highest amount of incidents recorded?
 ```sql
-SELECT count(success) AS successful_attack,
-       count(nkill) AS total_death
-FROM attack
-WHERE attack.success = 1;
+SELECT Region, COUNT(Region)
+FROM missing_immigrant GROUP BY Region;
+
 ```
-| successful_attack | total_death |
-|------------------|-------------|
-|     161632      |   151721   |
+![q1](https://user-images.githubusercontent.com/114537955/229356882-13f54c0e-d915-4052-9168-a3fa0a60b6a4.png)
