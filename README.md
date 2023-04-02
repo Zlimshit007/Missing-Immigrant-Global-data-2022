@@ -20,7 +20,7 @@ The following tools were used for this project:
 
 ## Data Sorting, Cleaning, and Transformnation using Python
 the process can be found in the link below
-https://github.com/Zlimshit007/Missing-Migrants-Project/blob/main/missing-immigrant-globally-dataset.ipynb
+https://github.com/Zlimshit007/Missing-Immigrant-Global-data-2022/blob/main/missing-immigrant-globally-dataset.ipynb
 
 
 ## Data Analysis using MySQL server
@@ -43,5 +43,5 @@ After Importing the tables, I explored the data and asked several questions to g
 - what is the most likely cause of death in the month of january?
 - what is the most likely cause of death recorded in october?
 
-you can find the solution here https://github.com/Zlimshit007/Missing-Migrants-Project/commit/e2b9a17dc11110af9dd65d75ad9ae832f80c9d09
+you can find the solution here https://github.com/Zlimshit007/Missing-Immigrant-Global-data-2022/blob/main/mySQL%20Analysis%20of%20the%20data.md
 
