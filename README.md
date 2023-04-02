@@ -19,7 +19,8 @@ The following tools were used for this project:
 - Power BI
 
 ## Data Sorting, Cleaning, and Transformnation using Python
-the process can be found in the link below
+the process and code can be found in the link below
+
 https://github.com/Zlimshit007/Missing-Immigrant-Global-data-2022/blob/main/missing-immigrant-globally-dataset.ipynb
 
 
