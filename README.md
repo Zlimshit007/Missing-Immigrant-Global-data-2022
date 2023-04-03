@@ -51,4 +51,22 @@ you can find the solution here https://github.com/Zlimshit007/Missing-Immigrant-
 ***
 ## VISULIZATION
 
-After analyzing the data in MySQL server, the dataset were imported into PowerBI to create visualizations to better understand the data and identify trends and patterns. The dashboard was designed to answer the questions posed during the analysis phase.
+After analyzing the data in MySQL server, the dataset were imported into PowerBI to create visualizations to better understand the data and identify trends and patterns.
+I imported the data to Power Bi Desktop, by clicking on the Get Data then choose the More option at the bottom:
+![p1a](https://user-images.githubusercontent.com/114537955/229497820-c0e1fa7a-b649-40f3-94d6-98d0e83823dc.png)
+
+then i entered my Database info
+![p2](https://user-images.githubusercontent.com/114537955/229498380-7dddd722-7145-4fb1-9157-543f79c63bde.png)
+
+I selected the Database authentication type and input your MySQL credentials in the User name and Password boxes.
+![p3](https://user-images.githubusercontent.com/114537955/229498607-c3a2be6e-0d71-445e-9df5-4906de374443.png)
+
+In the "Navigator" window, i then selected the data i need, and then either load or transform the data.
+![p1](https://user-images.githubusercontent.com/114537955/229499022-99e1f5b0-04ce-4273-8f8f-d4bdb99d73c6.png)
+
+Then my data was ready for visualization, The dashboard was designed to answer the questions posed during the analysis phase, click on the link below to view my report.
+
+
+
+
+
