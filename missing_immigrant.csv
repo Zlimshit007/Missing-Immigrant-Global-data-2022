@@ -1,0 +1,1241 @@
+Region,Incident_Date,Year,Reported_Month,Number_Dead,Minimum_Estimated_Number_of_Missing,Total Number_of_Dead_and_Missing,Number_of_Survivors,Number_of_Females,Number_of_Males,Number_of_Children,Cause_of_Death
+Mediterranean,"Sun, 01/02/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,1.0,Drowning
+Mediterranean,"Mon, 01/03/2022 - 12:00",2022,January,3.0,8.0,11,3.0,0.0,0.0,0.0,Drowning
+Southern Africa,"Mon, 01/03/2022 - 12:00",2022,January,3.0,3.0,6,2.0,0.0,6.0,0.0,Drowning
+Mediterranean,"Mon, 01/03/2022 - 12:00",2022,January,3.0,14.0,17,16.0,1.0,0.0,1.0,Drowning
+Southern Asia,"Sat, 01/01/2022 - 12:00",2022,January,1.0,0.0,1,2.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Southern Asia,"Tue, 01/04/2022 - 12:00",2022,January,8.0,0.0,8,16.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Tue, 01/11/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 01/12/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Mon, 01/10/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Sat, 01/01/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Central America,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Fri, 01/14/2022 - 12:00",2022,January,1.0,0.0,1,30.0,0.0,1.0,0.0,Drowning
+North America,"Wed, 01/12/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Western Asia,"Sun, 01/16/2022 - 12:00",2022,January,2.0,0.0,2,0.0,1.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Sun, 01/16/2022 - 12:00",2022,January,2.0,41.0,43,10.0,13.0,0.0,3.0,Drowning
+Northern Africa,"Sun, 01/16/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,1.0,Drowning
+Northern Africa,"Mon, 01/17/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,1.0,Drowning
+Central America,"Tue, 01/18/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,1.0,Drowning
+Mediterranean,"Mon, 01/17/2022 - 12:00",2022,January,2.0,0.0,2,0.0,0.0,2.0,0.0,Mixed or unknown
+Mediterranean,"Mon, 01/10/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Tue, 01/18/2022 - 12:00",2022,January,1.0,0.0,1,9.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Wed, 01/19/2022 - 12:00",2022,January,0.0,1.0,1,0.0,0.0,0.0,0.0,Drowning
+North America,"Fri, 01/07/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South America,"Mon, 01/10/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Mediterranean,"Thu, 01/20/2022 - 12:00",2022,January,1.0,10.0,11,21.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 01/21/2022 - 12:00",2022,January,3.0,0.0,3,36.0,0.0,3.0,0.0,Drowning
+Mediterranean,"Fri, 01/21/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Wed, 01/12/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Thu, 01/13/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+South-eastern Asia,"Mon, 01/17/2022 - 12:00",2022,January,6.0,0.0,6,5.0,6.0,0.0,0.0,Drowning
+South-eastern Asia,"Thu, 01/20/2022 - 12:00",2022,January,1.0,6.0,7,19.0,2.0,0.0,0.0,Drowning
+South America,"Thu, 01/13/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Central America,"Tue, 01/18/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,1.0,Drowning
+Central America,"Wed, 01/19/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Fri, 01/21/2022 - 12:00",2022,January,0.0,9.0,9,100.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 01/23/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+North America,"Thu, 01/20/2022 - 12:00",2022,January,4.0,0.0,4,5.0,2.0,2.0,2.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Mon, 01/03/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Wed, 01/05/2022 - 12:00",2022,January,2.0,0.0,2,103.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Mon, 01/24/2022 - 12:00",2022,January,7.0,0.0,7,280.0,0.0,7.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Tue, 01/25/2022 - 12:00",2022,January,0.0,18.0,18,9.0,0.0,0.0,0.0,Drowning
+Caribbean,"Tue, 01/25/2022 - 12:00",2022,January,0.0,35.0,35,1.0,0.0,0.0,0.0,Drowning
+Caribbean,"Tue, 01/25/2022 - 12:00",2022,January,0.0,3.0,3,0.0,0.0,2.0,0.0,Drowning
+Caribbean,"Tue, 01/25/2022 - 12:00",2022,January,0.0,1.0,1,0.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 01/23/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Mon, 01/24/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 01/16/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 01/27/2022 - 12:00",2022,January,6.0,30.0,36,34.0,0.0,0.0,0.0,Drowning
+Europe,"Tue, 01/25/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+South America,"Sun, 01/23/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+South America,"Mon, 01/24/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Sat, 01/22/2022 - 12:00",2022,January,2.0,0.0,2,6.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Caribbean,"Fri, 01/28/2022 - 12:00",2022,January,0.0,15.0,15,12.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 01/26/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 01/27/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 01/28/2022 - 12:00",2022,January,2.0,26.0,28,6.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 01/28/2022 - 12:00",2022,January,0.0,3.0,3,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 01/28/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 01/28/2022 - 12:00",2022,January,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Mediterranean,"Mon, 01/31/2022 - 12:00",2022,January,0.0,1.0,1,2.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Wed, 01/19/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Mediterranean,"Sun, 01/30/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Mon, 01/24/2022 - 12:00",2022,January,3.0,0.0,3,0.0,0.0,0.0,3.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Sun, 01/30/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Western Asia,"Wed, 02/02/2022 - 12:00",2022,February,13.0,0.0,13,3.0,0.0,13.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Western Asia,"Wed, 02/02/2022 - 12:00",2022,February,5.0,0.0,5,0.0,0.0,5.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Western Asia,"Wed, 02/02/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+South-eastern Asia,"Fri, 01/14/2022 - 12:00",2022,January,4.0,0.0,4,14.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Wed, 02/02/2022 - 12:00",2022,February,1.0,16.0,17,41.0,0.0,0.0,0.0,Drowning
+Europe,"Tue, 02/01/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Fri, 02/04/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Sun, 01/02/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Wed, 01/26/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,1.0,Vehicle accident / death linked to hazardous transport
+Caribbean,"Sun, 02/06/2022 - 12:00",2022,February,1.0,0.0,1,19.0,0.0,1.0,1.0,Violence
+Mediterranean,"Tue, 02/01/2022 - 12:00",2022,February,2.0,0.0,2,7.0,0.0,0.0,0.0,Drowning
+Southern Africa,"Mon, 01/31/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+South America,"Sun, 01/30/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Fri, 01/28/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Tue, 02/01/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Western Asia,"Sat, 01/08/2022 - 12:00",2022,January,0.0,2.0,2,0.0,0.0,0.0,0.0,Drowning
+South-eastern Asia,"Fri, 01/28/2022 - 12:00",2022,January,1.0,0.0,1,8.0,0.0,1.0,0.0,Violence
+Northern Africa,"Mon, 02/07/2022 - 12:00",2022,February,0.0,3.0,3,65.0,0.0,0.0,0.0,Drowning
+North America,"Mon, 01/31/2022 - 12:00",2022,January,8.0,0.0,8,0.0,0.0,0.0,0.0,Mixed or unknown
+Mediterranean,"Mon, 02/07/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Mon, 02/07/2022 - 12:00",2022,February,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Northern Africa,"Mon, 02/07/2022 - 12:00",2022,February,0.0,4.0,4,53.0,1.0,3.0,0.0,Drowning
+Europe,"Tue, 01/25/2022 - 12:00",2022,January,2.0,0.0,2,0.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Thu, 02/10/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sun, 02/13/2022 - 12:00",2022,February,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+South America,"Sat, 01/29/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Tue, 02/08/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Sun, 02/06/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Sun, 02/06/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South America,"Thu, 02/03/2022 - 12:00",2022,February,6.0,0.0,6,0.0,0.0,0.0,2.0,Vehicle accident / death linked to hazardous transport
+Europe,"Mon, 02/14/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Mon, 02/14/2022 - 12:00",2022,February,1.0,0.0,1,333.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Sun, 02/13/2022 - 12:00",2022,February,0.0,3.0,3,18.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 02/13/2022 - 12:00",2022,February,0.0,2.0,2,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 02/17/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Thu, 02/17/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Fri, 02/18/2022 - 12:00",2022,February,1.0,0.0,1,94.0,0.0,0.0,0.0,Violence
+Mediterranean,"Sun, 02/20/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Sat, 02/19/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Sat, 02/19/2022 - 12:00",2022,February,1.0,0.0,1,5.0,0.0,0.0,0.0,Violence
+Caribbean,"Sat, 02/19/2022 - 12:00",2022,February,2.0,0.0,2,7.0,0.0,0.0,0.0,Drowning
+Caribbean,"Mon, 02/07/2022 - 12:00",2022,February,1.0,0.0,1,9.0,1.0,0.0,0.0,Drowning
+South America,"Sat, 02/12/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+South America,"Tue, 02/15/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+South America,"Mon, 02/07/2022 - 12:00",2022,February,8.0,0.0,8,0.0,0.0,8.0,0.0,Drowning
+South America,"Thu, 02/03/2022 - 12:00",2022,February,2.0,0.0,2,0.0,0.0,1.0,1.0,Vehicle accident / death linked to hazardous transport
+North America,"Wed, 02/02/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Wed, 02/16/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Southern Asia,"Wed, 02/09/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,1.0,Violence
+Northern Africa,"Wed, 02/23/2022 - 12:00",2022,February,3.0,10.0,13,47.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Thu, 02/24/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Europe,"Sun, 02/27/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Mediterranean,"Sun, 02/27/2022 - 12:00",2022,February,1.0,49.0,50,0.0,0.0,0.0,1.0,Drowning
+Mediterranean,"Tue, 03/01/2022 - 12:00",2022,March,6.0,0.0,6,0.0,3.0,3.0,0.0,Drowning
+Mediterranean,"Tue, 03/01/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Mon, 02/28/2022 - 12:00",2022,February,9.0,11.0,20,9.0,3.0,5.0,1.0,Drowning
+Europe,"Mon, 02/28/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Central America,"Sun, 02/27/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Eastern Africa,"Thu, 01/20/2022 - 12:00",2022,January,2.0,0.0,2,14.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Eastern Africa,"Mon, 02/07/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Sat, 02/12/2022 - 12:00",2022,February,0.0,1.0,1,2.0,1.0,0.0,0.0,Mixed or unknown
+Caribbean,"Sat, 02/19/2022 - 12:00",2022,February,4.0,0.0,4,0.0,1.0,3.0,0.0,Drowning
+Caribbean,"Fri, 02/18/2022 - 12:00",2022,February,2.0,0.0,2,0.0,0.0,0.0,0.0,Drowning
+South America,"Tue, 02/22/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+South America,"Mon, 02/21/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Central America,"Sun, 02/20/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 02/21/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 02/22/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 02/22/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 02/08/2022 - 12:00",2022,February,1.0,0.0,1,0.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Sat, 02/19/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Tue, 02/01/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Wed, 02/23/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Mon, 02/28/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Caribbean,"Tue, 03/01/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Sat, 02/26/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Tue, 03/01/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Wed, 03/02/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Wed, 03/02/2022 - 12:00",2022,March,2.0,0.0,2,0.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+South-eastern Asia,"Sun, 02/20/2022 - 12:00",2022,February,3.0,0.0,3,4.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Mon, 03/07/2022 - 12:00",2022,March,1.0,0.0,1,3.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Mediterranean,"Tue, 02/22/2022 - 12:00",2022,February,1.0,0.0,1,573.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Western Asia,"Wed, 03/02/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Eastern Africa,"Sat, 01/15/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Europe,"Sat, 01/15/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Mon, 02/28/2022 - 12:00",2022,February,1.0,0.0,1,1.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Sat, 03/05/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+North America,"Sat, 02/26/2022 - 12:00",2022,February,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Sun, 03/06/2022 - 12:00",2022,March,1.0,0.0,1,63.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Tue, 03/08/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+North America,"Fri, 03/04/2022 - 12:00",2022,March,0.0,1.0,1,0.0,0.0,0.0,1.0,Drowning
+Central America,"Sat, 03/05/2022 - 12:00",2022,March,1.0,0.0,1,4.0,0.0,1.0,0.0,Violence
+Central America,"Mon, 03/07/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Caribbean,"Mon, 02/28/2022 - 12:00",2022,February,9.0,0.0,9,0.0,0.0,0.0,9.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Tue, 03/08/2022 - 12:00",2022,March,3.0,0.0,3,0.0,1.0,1.0,1.0,Drowning
+Central America,"Tue, 03/08/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+North America,"Mon, 02/07/2022 - 12:00",2022,February,1.0,0.0,1,4.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Sat, 03/12/2022 - 12:00",2022,March,1.0,20.0,21,6.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 03/12/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sun, 03/13/2022 - 12:00",2022,March,2.0,0.0,2,0.0,1.0,1.0,0.0,Drowning
+Northern Africa,"Sat, 03/12/2022 - 12:00",2022,March,5.0,39.0,44,17.0,3.0,0.0,2.0,Drowning
+Mediterranean,"Fri, 03/04/2022 - 12:00",2022,March,0.0,40.0,40,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 03/04/2022 - 12:00",2022,March,0.0,20.0,20,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 03/13/2022 - 12:00",2022,March,0.0,24.0,24,0.0,0.0,0.0,0.0,Drowning
+Central America,"Wed, 03/09/2022 - 12:00",2022,March,1.0,1.0,2,1.0,1.0,0.0,1.0,Drowning
+Central America,"Thu, 03/10/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South America,"Tue, 03/15/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Central America,"Tue, 03/15/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 03/15/2022 - 12:00",2022,March,3.0,0.0,3,0.0,2.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Fri, 03/18/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Europe,"Sun, 03/13/2022 - 12:00",2022,March,1.0,0.0,1,21.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+South-eastern Asia,"Wed, 03/16/2022 - 12:00",2022,March,6.0,0.0,6,12.0,3.0,2.0,1.0,Vehicle accident / death linked to hazardous transport
+Western Asia,"Wed, 03/16/2022 - 12:00",2022,March,2.0,0.0,2,0.0,0.0,1.0,0.0,Violence
+Mediterranean,"Tue, 03/22/2022 - 12:00",2022,March,5.0,3.0,8,0.0,0.0,8.0,0.0,Drowning
+Southern Asia,"Thu, 01/20/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 01/20/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 01/23/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sun, 01/23/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 01/23/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 01/24/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Mon, 01/24/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Violence
+Southern Asia,"Mon, 01/24/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Wed, 01/26/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 01/29/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 01/29/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 01/29/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sun, 01/30/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 01/30/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Wed, 02/02/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Wed, 02/02/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Wed, 02/02/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 02/03/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 02/03/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 02/05/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 02/05/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sun, 02/06/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Mon, 02/07/2022 - 12:00",2022,February,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 02/07/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Tue, 02/08/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 02/10/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 02/10/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 02/10/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 02/10/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 02/10/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 02/12/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sat, 02/12/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 02/13/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Southern Asia,"Sun, 02/13/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 02/14/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 02/14/2022 - 12:00",2022,February,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Wed, 02/16/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 02/17/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 02/17/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sun, 02/20/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 02/21/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,0.0,1.0,Accidental death
+Southern Asia,"Mon, 02/21/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Tue, 02/22/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Southern Asia,"Wed, 02/23/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Wed, 02/23/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 02/23/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 02/23/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 02/23/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 01/01/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 01/01/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 01/03/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 01/03/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 01/05/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 01/05/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Wed, 01/05/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 01/06/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Fri, 01/07/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Fri, 01/07/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Fri, 01/07/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 01/08/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sat, 01/08/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 01/08/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Sun, 01/09/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/11/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Fri, 01/14/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sat, 01/15/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 01/15/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 01/15/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Mon, 01/17/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/18/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 01/20/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 01/20/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 01/20/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 01/20/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 01/20/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Southern Asia,"Thu, 01/20/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Sat, 01/22/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 01/25/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 01/27/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Fri, 01/28/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Fri, 01/28/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sun, 01/30/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 01/30/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Tue, 02/01/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 02/01/2022 - 12:00",2022,February,1.0,0.0,1,0.0,1.0,0.0,0.0,Violence
+Southern Asia,"Tue, 02/01/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 02/03/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 02/03/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Fri, 02/04/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Fri, 02/04/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 01/05/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,1.0,Accidental death
+Southern Asia,"Wed, 01/05/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sat, 02/05/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sun, 02/06/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 02/09/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Wed, 02/09/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 02/09/2022 - 12:00",2022,February,1.0,0.0,1,0.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 02/09/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,0.0,1.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 02/10/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 02/10/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 02/15/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Southern Asia,"Wed, 02/16/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Southern Asia,"Wed, 02/16/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Sun, 02/20/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+South-eastern Asia,"Sun, 03/20/2022 - 12:00",2022,March,2.0,26.0,28,58.0,1.0,1.0,0.0,Drowning
+South-eastern Asia,"Thu, 03/24/2022 - 12:00",2022,March,1.0,0.0,1,3.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Eastern Africa,"Sat, 03/26/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Violence
+Mediterranean,"Thu, 03/24/2022 - 12:00",2022,March,2.0,0.0,2,0.0,0.0,0.0,0.0,Mixed or unknown
+Mediterranean,"Sat, 03/26/2022 - 12:00",2022,March,2.0,0.0,2,0.0,0.0,0.0,0.0,Mixed or unknown
+Mediterranean,"Fri, 03/25/2022 - 12:00",2022,March,1.0,0.0,1,128.0,0.0,1.0,0.0,Mixed or unknown
+Mediterranean,"Fri, 03/25/2022 - 12:00",2022,March,0.0,1.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Northern Africa,"Sun, 03/27/2022 - 12:00",2022,March,2.0,0.0,2,0.0,0.0,0.0,0.0,Drowning
+Southern Asia,"Tue, 03/22/2022 - 12:00",2022,March,2.0,0.0,2,1.0,2.0,0.0,2.0,Vehicle accident / death linked to hazardous transport
+Europe,"Wed, 03/23/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Europe,"Thu, 03/10/2022 - 12:00",2022,March,2.0,6.0,8,0.0,2.0,1.0,1.0,Drowning
+Mediterranean,"Tue, 03/29/2022 - 12:00",2022,March,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Mediterranean,"Thu, 03/31/2022 - 12:00",2022,March,11.0,0.0,11,126.0,7.0,0.0,4.0,Mixed or unknown
+Central America,"Wed, 03/09/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Central America,"Thu, 03/17/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Thu, 03/17/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Mon, 03/21/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+North America,"Mon, 03/21/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 03/22/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Wed, 03/23/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sat, 03/19/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 03/21/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Central America,"Thu, 03/24/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Thu, 03/24/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+South America,"Tue, 03/22/2022 - 12:00",2022,March,3.0,0.0,3,0.0,0.0,3.0,0.0,Violence
+South America,"Sat, 03/26/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+South America,"Sat, 03/26/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+South America,"Sat, 03/26/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,0.0,1.0,Sickness / lack of access to adequate healthcare
+Caribbean,"Wed, 03/23/2022 - 12:00",2022,March,0.0,2.0,2,0.0,0.0,2.0,0.0,Drowning
+North America,"Thu, 03/24/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Accidental death
+North America,"Sat, 03/19/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 03/17/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Accidental death
+Mediterranean,"Sat, 04/02/2022 - 12:00",2022,April,0.0,96.0,96,4.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 04/03/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Mon, 04/04/2022 - 12:00",2022,April,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Western Africa,"Sun, 03/27/2022 - 12:00",2022,March,1.0,25.0,26,48.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Sat, 03/12/2022 - 12:00",2022,March,1.0,0.0,1,10.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Thu, 03/31/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Sat, 04/02/2022 - 12:00",2022,April,2.0,0.0,2,1.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Sun, 04/03/2022 - 12:00",2022,April,1.0,4.0,5,6.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Tue, 04/05/2022 - 12:00",2022,April,1.0,0.0,1,2.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Tue, 04/05/2022 - 12:00",2022,April,2.0,0.0,2,10.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Wed, 04/06/2022 - 12:00",2022,April,1.0,0.0,1,9.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Wed, 04/06/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Fri, 03/18/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Caribbean,"Mon, 03/28/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Central America,"Fri, 03/04/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Sat, 02/19/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Thu, 03/31/2022 - 12:00",2022,March,1.0,0.0,1,7.0,0.0,1.0,0.0,Drowning
+Central America,"Sun, 03/27/2022 - 12:00",2022,March,0.0,1.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sat, 04/09/2022 - 12:00",2022,April,4.0,10.0,14,20.0,2.0,0.0,2.0,Drowning
+Mediterranean,"Fri, 04/08/2022 - 12:00",2022,April,9.0,2.0,11,18.0,4.0,0.0,4.0,Drowning
+Mediterranean,"Sat, 04/09/2022 - 12:00",2022,April,5.0,11.0,16,40.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 04/09/2022 - 12:00",2022,April,0.0,18.0,18,2.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Thu, 04/07/2022 - 12:00",2022,April,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Northern Africa,"Thu, 04/07/2022 - 12:00",2022,April,5.0,0.0,5,0.0,0.0,0.0,0.0,Drowning
+Western Asia,"Mon, 04/11/2022 - 12:00",2022,April,4.0,0.0,4,25.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Thu, 04/07/2022 - 12:00",2022,April,1.0,0.0,1,2.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Sun, 04/10/2022 - 12:00",2022,April,1.0,0.0,1,3.0,0.0,1.0,0.0,Drowning
+North America,"Mon, 04/11/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Northern Africa,"Sun, 04/10/2022 - 12:00",2022,April,0.0,2.0,2,17.0,0.0,2.0,0.0,Violence
+Central America,"Mon, 04/04/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Caribbean,"Thu, 04/07/2022 - 12:00",2022,April,4.0,0.0,4,0.0,0.0,0.0,0.0,Drowning
+Central America,"Sat, 04/02/2022 - 12:00",2022,April,3.0,0.0,3,0.0,1.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Sun, 04/10/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Sun, 04/10/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 04/11/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 04/05/2022 - 12:00",2022,April,1.0,0.0,1,1.0,0.0,1.0,0.0,Violence
+North America,"Mon, 04/11/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Accidental death
+North America,"Tue, 04/05/2022 - 12:00",2022,April,1.0,0.0,1,1.0,0.0,1.0,0.0,Accidental death
+Northern Africa,"Sat, 01/01/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Northern Africa,"Sat, 01/08/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Sun, 01/09/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Northern Africa,"Sat, 01/15/2022 - 12:00",2022,January,9.0,0.0,9,0.0,3.0,2.0,4.0,Accidental death
+Northern Africa,"Sun, 01/16/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Northern Africa,"Mon, 01/17/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,1.0,Sickness / lack of access to adequate healthcare
+Western Africa,"Wed, 02/02/2022 - 12:00",2022,February,16.0,0.0,16,0.0,3.0,5.0,8.0,Sickness / lack of access to adequate healthcare
+Western Africa,"Tue, 02/22/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Western Africa,"Mon, 02/28/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Northern Africa,"Tue, 03/01/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Mediterranean,"Fri, 04/15/2022 - 12:00",2022,April,6.0,29.0,35,0.0,0.0,0.0,0.0,Drowning
+South-eastern Asia,"Wed, 04/13/2022 - 12:00",2022,April,1.0,0.0,1,53.0,0.0,0.0,0.0,Violence
+Europe,"Sat, 04/16/2022 - 12:00",2022,April,2.0,0.0,2,8.0,0.0,2.0,0.0,Drowning
+Mediterranean,"Tue, 04/19/2022 - 12:00",2022,April,0.0,5.0,5,31.0,0.0,0.0,0.0,Drowning
+Caribbean,"Mon, 04/04/2022 - 12:00",2022,April,0.0,27.0,27,0.0,0.0,0.0,0.0,Drowning
+Central America,"Tue, 04/12/2022 - 12:00",2022,April,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+North America,"Wed, 04/13/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Wed, 04/13/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Wed, 04/13/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Thu, 04/14/2022 - 12:00",2022,April,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Central America,"Thu, 04/14/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Thu, 04/14/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Central America,"Fri, 04/15/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Fri, 04/15/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Sun, 04/17/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Sun, 04/17/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 04/19/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 04/19/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 04/19/2022 - 12:00",2022,April,6.0,0.0,6,0.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Wed, 04/20/2022 - 12:00",2022,April,3.0,0.0,3,15.0,1.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Thu, 04/21/2022 - 12:00",2022,April,3.0,0.0,3,6.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+South-eastern Asia,"Fri, 04/15/2022 - 12:00",2022,April,5.0,2.0,7,13.0,0.0,0.0,0.0,Drowning
+South-eastern Asia,"Wed, 04/20/2022 - 12:00",2022,April,6.0,0.0,6,521.0,3.0,3.0,2.0,Accidental death
+South-eastern Asia,"Wed, 04/27/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,1.0,Accidental death
+Mediterranean,"Sat, 04/23/2022 - 12:00",2022,April,1.0,10.0,11,13.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 04/23/2022 - 12:00",2022,April,0.0,1.0,1,6.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 04/23/2022 - 12:00",2022,April,6.0,20.0,26,26.0,0.0,0.0,1.0,Drowning
+Mediterranean,"Sat, 04/23/2022 - 12:00",2022,April,12.0,14.0,26,98.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 04/24/2022 - 12:00",2022,April,1.0,0.0,1,65.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Mon, 04/25/2022 - 12:00",2022,April,0.0,12.0,12,94.0,0.0,0.0,0.0,Drowning
+Western Asia,"Mon, 04/25/2022 - 12:00",2022,April,2.0,0.0,2,11.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Tue, 04/26/2022 - 12:00",2022,April,1.0,22.0,23,36.0,11.0,0.0,7.0,Drowning
+Northern Africa,"Tue, 04/26/2022 - 12:00",2022,April,0.0,2.0,2,0.0,1.0,1.0,0.0,Drowning
+Northern Africa,"Tue, 04/26/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+Central America,"Thu, 04/21/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Thu, 04/21/2022 - 12:00",2022,April,3.0,0.0,3,0.0,0.0,3.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Thu, 04/21/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+South America,"Thu, 04/21/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Fri, 04/22/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Caribbean,"Thu, 04/14/2022 - 12:00",2022,April,0.0,2.0,2,0.0,0.0,2.0,0.0,Drowning
+Caribbean,"Mon, 04/04/2022 - 12:00",2022,April,0.0,6.0,6,0.0,1.0,2.0,3.0,Drowning
+Central America,"Sat, 04/16/2022 - 12:00",2022,April,0.0,1.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Sun, 04/24/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+South America,"Sun, 04/24/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Violence
+Central America,"Tue, 04/12/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South-eastern Asia,"Sat, 04/23/2022 - 12:00",2022,April,1.0,0.0,1,11.0,0.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Europe,"Sun, 04/17/2022 - 12:00",2022,April,1.0,0.0,1,5.0,1.0,0.0,0.0,Violence
+Europe,"Sun, 04/03/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Europe,"Sun, 05/01/2022 - 12:00",2022,May,1.0,0.0,1,9.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Sun, 05/01/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Sun, 05/08/2022 - 12:00",2022,May,0.0,28.0,28,13.0,0.0,27.0,1.0,Drowning
+North America,"Mon, 05/02/2022 - 12:00",2022,May,0.0,2.0,2,0.0,0.0,0.0,1.0,Drowning
+Central America,"Thu, 05/05/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Fri, 05/06/2022 - 12:00",2022,May,1.0,0.0,1,5.0,0.0,1.0,0.0,Accidental death
+Europe,"Thu, 05/05/2022 - 12:00",2022,May,1.0,1.0,2,0.0,0.0,2.0,0.0,Drowning
+South-eastern Asia,"Sat, 04/30/2022 - 12:00",2022,April,2.0,0.0,2,12.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Fri, 05/06/2022 - 12:00",2022,May,1.0,0.0,1,16.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Fri, 04/15/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 04/22/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Violence
+Central America,"Thu, 04/28/2022 - 12:00",2022,April,2.0,0.0,2,0.0,0.0,1.0,1.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 04/29/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Sun, 05/01/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Tue, 05/03/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Fri, 04/29/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Thu, 05/05/2022 - 12:00",2022,May,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Mediterranean,"Fri, 05/06/2022 - 12:00",2022,May,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Central America,"Thu, 05/05/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Fri, 05/06/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Central America,"Thu, 05/05/2022 - 12:00",2022,May,1.0,1.0,2,0.0,0.0,0.0,2.0,Drowning
+North America,"Thu, 05/05/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 05/09/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Central America,"Mon, 05/09/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 05/09/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Caribbean,"Sun, 05/08/2022 - 12:00",2022,May,1.0,0.0,1,56.0,1.0,0.0,0.0,Drowning
+North America,"Mon, 05/09/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Mon, 05/09/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Fri, 05/13/2022 - 12:00",2022,May,1.0,0.0,1,14.0,0.0,1.0,0.0,Mixed or unknown
+Europe,"Mon, 04/18/2022 - 12:00",2022,April,0.0,1.0,1,0.0,0.0,1.0,0.0,Accidental death
+South-eastern Asia,"Fri, 05/06/2022 - 12:00",2022,May,1.0,0.0,1,13.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+South-eastern Asia,"Mon, 05/09/2022 - 12:00",2022,May,1.0,0.0,1,20.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Tue, 05/10/2022 - 12:00",2022,May,3.0,0.0,3,0.0,0.0,0.0,0.0,Drowning
+Eastern Africa,"Wed, 04/27/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Europe,"Wed, 05/11/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,0.0,0.0,Violence
+Mediterranean,"Sat, 05/14/2022 - 12:00",2022,May,0.0,8.0,8,3.0,2.0,9.0,0.0,Drowning
+Mediterranean,"Sun, 05/15/2022 - 12:00",2022,May,11.0,5.0,16,5.0,1.0,0.0,0.0,Drowning
+Europe,"Sun, 04/10/2022 - 12:00",2022,April,0.0,2.0,2,0.0,0.0,1.0,1.0,Violence
+Northern Africa,"Sun, 05/15/2022 - 12:00",2022,May,2.0,11.0,13,46.0,0.0,0.0,4.0,Drowning
+Northern Africa,"Sun, 05/08/2022 - 12:00",2022,May,17.0,27.0,44,12.0,0.0,0.0,0.0,Drowning
+Southern Asia,"Wed, 03/09/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Wed, 03/09/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 03/10/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 03/10/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 03/12/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 03/13/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sat, 03/19/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sat, 03/19/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 03/19/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sun, 03/20/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sat, 03/26/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,1.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sat, 03/26/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sun, 03/27/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 03/28/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Mon, 03/28/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Tue, 03/29/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 03/30/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 03/31/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 03/31/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 03/31/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 03/31/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 03/31/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 04/02/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 04/03/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 04/03/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Wed, 04/06/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Wed, 04/06/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Wed, 04/06/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 04/07/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sun, 04/10/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sun, 04/10/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sun, 04/10/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 04/11/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,1.0,Violence
+Southern Asia,"Tue, 04/12/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sat, 04/16/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sat, 04/16/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Sat, 04/16/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Fri, 04/01/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Wed, 04/13/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 04/14/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Thu, 04/14/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Thu, 04/14/2022 - 12:00",2022,April,1.0,0.0,1,21.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Mon, 03/14/2022 - 12:00",2022,March,1.0,0.0,1,8.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 04/14/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 04/14/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Southern Asia,"Fri, 04/15/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Fri, 04/15/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Fri, 04/15/2022 - 12:00",2022,April,1.0,0.0,1,1.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sat, 04/16/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 04/17/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Sun, 04/17/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Mon, 04/18/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 04/18/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,1.0,Violence
+Southern Asia,"Mon, 04/18/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Mon, 04/18/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Tue, 04/19/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Tue, 04/19/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Tue, 04/19/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Tue, 04/19/2022 - 12:00",2022,April,1.0,0.0,1,1.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 04/20/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Wed, 04/20/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 04/21/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,1.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 04/21/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 04/21/2022 - 12:00",2022,April,1.0,0.0,1,2.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Fri, 04/22/2022 - 12:00",2022,April,1.0,0.0,1,5.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 04/23/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Sun, 04/24/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Mon, 04/25/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 04/28/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,1.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 04/28/2022 - 12:00",2022,April,1.0,0.0,1,1.0,0.0,1.0,1.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Thu, 04/28/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,1.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Fri, 04/29/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Mon, 05/02/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Wed, 05/04/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 05/05/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Thu, 05/05/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Thu, 05/05/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Fri, 05/06/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Fri, 05/06/2022 - 12:00",2022,May,1.0,0.0,1,1.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Fri, 05/06/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Fri, 05/06/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sun, 05/08/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Mon, 05/09/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Mon, 05/09/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,Violence
+Southern Asia,"Tue, 05/10/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Tue, 05/10/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Southern Asia,"Tue, 05/10/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Tue, 05/10/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Southern Asia,"Fri, 05/13/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,1.0,Violence
+Southern Asia,"Sat, 05/14/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Eastern Africa,"Sun, 05/15/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,0.0,1.0,Sickness / lack of access to adequate healthcare
+Eastern Africa,"Mon, 05/16/2022 - 12:00",2022,May,5.0,3.0,8,5.0,0.0,0.0,8.0,Vehicle accident / death linked to hazardous transport
+Eastern Africa,"Tue, 05/17/2022 - 12:00",2022,May,3.0,3.0,6,7.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Western Africa,"Mon, 03/21/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Mon, 03/21/2022 - 12:00",2022,March,3.0,0.0,3,0.0,0.0,3.0,0.0,Accidental death
+Western Africa,"Tue, 03/08/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Western Africa,"Sat, 03/05/2022 - 12:00",2022,March,2.0,0.0,2,0.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Western Africa,"Fri, 03/04/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Thu, 03/03/2022 - 12:00",2022,March,1.0,2.0,3,0.0,0.0,2.0,1.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Wed, 02/16/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Middle Africa,"Thu, 02/10/2022 - 12:00",2022,February,5.0,0.0,5,0.0,1.0,3.0,1.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Tue, 01/25/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Tue, 01/18/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Northern Africa,"Tue, 01/11/2022 - 12:00",2022,January,2.0,0.0,2,0.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Thu, 05/19/2022 - 12:00",2022,May,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Mediterranean,"Fri, 05/20/2022 - 12:00",2022,May,4.0,10.0,14,44.0,2.0,1.0,0.0,Drowning
+Central America,"Sun, 05/22/2022 - 12:00",2022,May,4.0,0.0,4,16.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Wed, 05/18/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 05/21/2022 - 12:00",2022,May,3.0,0.0,3,0.0,0.0,3.0,0.0,Drowning
+Mediterranean,"Wed, 05/18/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Tue, 05/24/2022 - 12:00",2022,May,4.0,3.0,7,13.0,3.0,1.0,0.0,Drowning
+Mediterranean,"Wed, 05/18/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+South America,"Mon, 05/02/2022 - 12:00",2022,May,2.0,0.0,2,0.0,0.0,2.0,0.0,Violence
+Caribbean,"Thu, 05/12/2022 - 12:00",2022,May,11.0,0.0,11,38.0,9.0,0.0,2.0,Drowning
+North America,"Thu, 05/12/2022 - 12:00",2022,May,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Central America,"Sun, 05/15/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South America,"Mon, 05/16/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Tue, 05/17/2022 - 12:00",2022,May,5.0,0.0,5,0.0,0.0,5.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Mon, 05/16/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Tue, 05/24/2022 - 12:00",2022,May,1.0,75.0,76,24.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Tue, 05/24/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Mon, 05/30/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Western Africa,"Mon, 05/16/2022 - 12:00",2022,May,6.0,0.0,6,23.0,0.0,6.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Western Africa,"Mon, 05/16/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Mon, 05/23/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Europe,"Sun, 05/29/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Thu, 06/02/2022 - 12:00",2022,June,2.0,0.0,2,0.0,1.0,1.0,0.0,Drowning
+Mediterranean,"Fri, 06/03/2022 - 12:00",2022,June,0.0,6.0,6,84.0,0.0,6.0,0.0,Drowning
+Mediterranean,"Fri, 06/03/2022 - 12:00",2022,June,0.0,2.0,2,0.0,0.0,2.0,0.0,Drowning
+Mediterranean,"Fri, 06/03/2022 - 12:00",2022,June,0.0,2.0,2,0.0,0.0,2.0,0.0,Drowning
+Europe,"Tue, 05/17/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+South-eastern Asia,"Mon, 05/23/2022 - 12:00",2022,May,2.0,0.0,2,8.0,2.0,0.0,0.0,Accidental death
+South-eastern Asia,"Mon, 05/23/2022 - 12:00",2022,May,17.0,50.0,67,23.0,0.0,0.0,2.0,Drowning
+Mediterranean,"Thu, 06/02/2022 - 12:00",2022,June,1.0,0.0,1,31.0,0.0,1.0,0.0,Drowning
+Europe,"Sat, 06/04/2022 - 12:00",2022,June,2.0,0.0,2,12.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Sat, 06/04/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Tue, 06/07/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Wed, 06/08/2022 - 12:00",2022,June,3.0,1.0,4,12.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 06/08/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Wed, 05/18/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 05/16/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Wed, 05/18/2022 - 12:00",2022,May,2.0,0.0,2,0.0,0.0,1.0,1.0,Drowning
+North America,"Thu, 05/19/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Sat, 05/21/2022 - 12:00",2022,May,4.0,0.0,4,0.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Sat, 05/21/2022 - 12:00",2022,May,7.0,0.0,7,0.0,0.0,2.0,0.0,Drowning
+Central America,"Sun, 05/22/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Wed, 05/25/2022 - 12:00",2022,May,6.0,0.0,6,24.0,4.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Tue, 05/17/2022 - 12:00",2022,May,1.0,1.0,2,0.0,1.0,0.0,1.0,Drowning
+Central America,"Thu, 05/26/2022 - 12:00",2022,May,0.0,4.0,4,2.0,1.0,0.0,3.0,Drowning
+Central America,"Wed, 05/25/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Sun, 05/29/2022 - 12:00",2022,May,1.0,0.0,1,1.0,1.0,0.0,0.0,Drowning
+Central America,"Sat, 05/28/2022 - 12:00",2022,May,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Central America,"Sat, 05/28/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Fri, 05/13/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Central America,"Fri, 05/20/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+North America,"Thu, 05/05/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Thu, 05/26/2022 - 12:00",2022,May,0.0,1.0,1,0.0,0.0,1.0,0.0,Drowning
+Northern Africa,"Sat, 06/04/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Tue, 05/31/2022 - 12:00",2022,May,1.0,0.0,1,1.0,0.0,1.0,0.0,Drowning
+North America,"Tue, 05/24/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Central America,"Sat, 05/21/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South America,"Fri, 05/20/2022 - 12:00",2022,May,8.0,0.0,8,0.0,2.0,2.0,4.0,Accidental death
+Central America,"Thu, 06/02/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,1.0,Sickness / lack of access to adequate healthcare
+Central America,"Wed, 06/01/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Central America,"Sat, 06/04/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 05/30/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Fri, 06/03/2022 - 12:00",2022,June,1.0,0.0,1,20.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 03/04/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Eastern Africa,"Tue, 05/24/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Eastern Africa,"Mon, 05/30/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Eastern Africa,"Mon, 05/30/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Eastern Africa,"Mon, 05/30/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Eastern Africa,"Tue, 05/17/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Eastern Africa,"Tue, 05/24/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Mediterranean,"Sat, 06/11/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Fri, 06/10/2022 - 12:00",2022,June,3.0,0.0,3,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 06/12/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 06/09/2022 - 12:00",2022,June,1.0,2.0,3,5.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Sun, 06/12/2022 - 12:00",2022,June,1.0,0.0,1,16.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Wed, 06/08/2022 - 12:00",2022,June,0.0,13.0,13,14.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Wed, 06/08/2022 - 12:00",2022,June,0.0,2.0,2,0.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Wed, 06/08/2022 - 12:00",2022,June,0.0,3.0,3,0.0,1.0,0.0,2.0,Vehicle accident / death linked to hazardous transport
+Central America,"Sat, 06/11/2022 - 12:00",2022,June,1.0,0.0,1,9.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Sat, 06/11/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Western Asia,"Mon, 06/13/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Western Asia,"Thu, 06/09/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Caribbean,"Wed, 03/02/2022 - 12:00",2022,March,0.0,7.0,7,0.0,4.0,0.0,1.0,Drowning
+Northern Africa,"Thu, 01/06/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Thu, 06/16/2022 - 12:00",2022,June,1.0,0.0,1,4.0,0.0,1.0,0.0,Violence
+Northern Africa,"Tue, 03/01/2022 - 12:00",2022,March,1.0,0.0,1,13.0,0.0,1.0,0.0,Violence
+Northern Africa,"Sun, 03/20/2022 - 12:00",2022,March,2.0,0.0,2,0.0,0.0,2.0,0.0,Violence
+Northern Africa,"Wed, 04/06/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Mon, 03/28/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Europe,"Tue, 05/24/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Tue, 06/14/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Wed, 06/15/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+Northern Africa,"Mon, 06/13/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+Mediterranean,"Tue, 06/14/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 06/17/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 06/17/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 06/18/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+North America,"Mon, 01/03/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Mon, 01/03/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Tue, 01/04/2022 - 12:00",2022,January,1.0,0.0,1,0.0,1.0,0.0,0.0,Mixed or unknown
+North America,"Wed, 01/05/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Thu, 01/06/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Fri, 01/07/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Sun, 01/09/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Tue, 01/11/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Tue, 01/11/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sun, 01/16/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Fri, 01/21/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sun, 01/23/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sun, 01/23/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Mon, 01/24/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Mon, 01/31/2022 - 12:00",2022,January,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Sun, 02/06/2022 - 12:00",2022,February,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Wed, 02/02/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sat, 02/05/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Mon, 02/14/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sat, 02/19/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sat, 02/19/2022 - 12:00",2022,February,1.0,0.0,1,0.0,1.0,0.0,0.0,Mixed or unknown
+North America,"Sat, 02/19/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Mon, 02/21/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Wed, 02/23/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Fri, 02/25/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 03/01/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Mon, 03/07/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Mon, 03/07/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Wed, 03/09/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Wed, 03/09/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Wed, 03/09/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sun, 03/13/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 03/15/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Thu, 03/17/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 03/22/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Tue, 03/22/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 03/22/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Tue, 03/22/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sat, 03/26/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sun, 03/27/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 03/28/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Mon, 03/21/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 03/31/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Mon, 04/04/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Tue, 04/05/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Wed, 04/06/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 04/12/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Accidental death
+North America,"Wed, 04/20/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Fri, 04/22/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Mixed or unknown
+North America,"Fri, 04/22/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sat, 04/23/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+North America,"Sat, 04/23/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 04/26/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Mixed or unknown
+North America,"Wed, 04/27/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Fri, 04/29/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 05/02/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Wed, 03/09/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 05/10/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 05/12/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Fri, 05/13/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Thu, 05/12/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sat, 05/21/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Tue, 05/24/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Tue, 05/24/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Fri, 05/27/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Sat, 05/28/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 05/31/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Tue, 05/31/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Tue, 05/31/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Fri, 06/03/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Wed, 06/01/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Thu, 06/02/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Wed, 06/01/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Mon, 06/06/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Mon, 06/06/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Mon, 06/06/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Fri, 06/10/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 05/30/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Thu, 06/02/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Fri, 06/03/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,1.0,Drowning
+Caribbean,"Sun, 06/05/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+North America,"Mon, 06/06/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,1.0,Drowning
+Central America,"Wed, 06/08/2022 - 12:00",2022,June,1.0,1.0,2,0.0,2.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+South America,"Fri, 06/10/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Sat, 06/11/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+North America,"Mon, 06/13/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Tue, 06/14/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 06/14/2022 - 12:00",2022,June,0.0,1.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Sun, 06/19/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Sun, 06/19/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+North America,"Sun, 06/19/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+North America,"Sun, 06/19/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Central America,"Mon, 06/20/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Wed, 06/22/2022 - 12:00",2022,June,3.0,0.0,3,11.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+South-eastern Asia,"Thu, 06/16/2022 - 12:00",2022,June,0.0,7.0,7,23.0,0.0,0.0,0.0,Drowning
+North America,"Sun, 06/12/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Sun, 06/12/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Sat, 06/18/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Sat, 06/18/2022 - 12:00",2022,June,1.0,0.0,1,1.0,0.0,1.0,0.0,Accidental death
+Mediterranean,"Thu, 06/23/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sat, 06/25/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Mon, 06/27/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 06/24/2022 - 12:00",2022,June,18.0,0.0,18,0.0,0.0,0.0,0.0,Mixed or unknown
+Mediterranean,"Sat, 06/25/2022 - 12:00",2022,June,5.0,0.0,5,0.0,0.0,0.0,0.0,Mixed or unknown
+Mediterranean,"Mon, 06/27/2022 - 12:00",2022,June,1.0,17.0,18,71.0,5.0,13.0,3.0,Drowning
+Mediterranean,"Mon, 06/27/2022 - 12:00",2022,June,0.0,6.0,6,0.0,1.0,5.0,3.0,Drowning
+Mediterranean,"Mon, 06/27/2022 - 12:00",2022,June,0.0,2.0,2,0.0,1.0,1.0,1.0,Drowning
+Mediterranean,"Mon, 06/27/2022 - 12:00",2022,June,0.0,1.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Mon, 06/27/2022 - 12:00",2022,June,0.0,3.0,3,0.0,1.0,1.0,1.0,Drowning
+North America,"Mon, 06/27/2022 - 12:00",2022,June,26.0,0.0,26,0.0,3.0,23.0,3.0,Vehicle accident / death linked to hazardous transport
+North America,"Mon, 06/27/2022 - 12:00",2022,June,21.0,0.0,21,0.0,6.0,15.0,3.0,Vehicle accident / death linked to hazardous transport
+North America,"Mon, 06/27/2022 - 12:00",2022,June,6.0,0.0,6,0.0,4.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Western Africa,"Mon, 06/27/2022 - 12:00",2022,June,1.0,14.0,15,92.0,0.0,0.0,0.0,Mixed or unknown
+Mediterranean,"Wed, 06/29/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 06/30/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 07/01/2022 - 12:00",2022,July,0.0,10.0,10,81.0,1.0,9.0,0.0,Drowning
+Mediterranean,"Fri, 07/01/2022 - 12:00",2022,July,0.0,3.0,3,0.0,0.0,3.0,0.0,Drowning
+Mediterranean,"Fri, 07/01/2022 - 12:00",2022,July,0.0,1.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Fri, 07/01/2022 - 12:00",2022,July,0.0,1.0,1,0.0,0.0,0.0,1.0,Drowning
+Northern Africa,"Wed, 06/29/2022 - 12:00",2022,June,18.0,0.0,18,0.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Wed, 06/29/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Thu, 06/30/2022 - 12:00",2022,June,3.0,3.0,6,11.0,2.0,1.0,0.0,Drowning
+Europe,"Wed, 06/29/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 07/01/2022 - 12:00",2022,July,1.0,0.0,1,1.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Fri, 07/01/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 07/01/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 07/02/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 07/01/2022 - 12:00",2022,July,0.0,22.0,22,61.0,0.0,0.0,3.0,Mixed or unknown
+Mediterranean,"Sun, 07/03/2022 - 12:00",2022,July,2.0,0.0,2,18.0,0.0,0.0,2.0,Drowning
+Mediterranean,"Sun, 07/03/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sun, 07/03/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Mon, 07/04/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Fri, 06/10/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Thu, 06/30/2022 - 12:00",2022,June,2.0,0.0,2,2.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Thu, 06/30/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Thu, 06/30/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Wed, 06/29/2022 - 12:00",2022,June,2.0,0.0,2,2.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Southern Asia,"Sat, 07/02/2022 - 12:00",2022,July,1.0,0.0,1,1.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Europe,"Sat, 07/02/2022 - 12:00",2022,July,1.0,0.0,1,7.0,0.0,0.0,0.0,Violence
+North America,"Thu, 06/09/2022 - 12:00",2022,June,1.0,0.0,1,3.0,0.0,1.0,0.0,Drowning
+Western Asia,"Sun, 07/03/2022 - 12:00",2022,July,1.0,0.0,1,39.0,0.0,0.0,1.0,Violence
+Eastern Africa,"Tue, 06/07/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Eastern Africa,"Wed, 06/22/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+North America,"Sun, 06/12/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 06/13/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 06/13/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Wed, 06/15/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Wed, 06/15/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Fri, 06/17/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Fri, 06/17/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Sat, 06/18/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Sat, 06/18/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 06/21/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Wed, 06/22/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Wed, 06/22/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Wed, 06/22/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Sun, 06/26/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Wed, 06/29/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Wed, 06/29/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Thu, 06/30/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Thu, 06/30/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 06/30/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Western Asia,"Wed, 07/06/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sun, 06/19/2022 - 12:00",2022,June,0.0,8.0,8,108.0,0.0,0.0,0.0,Drowning
+Western Africa,"Tue, 06/21/2022 - 12:00",2022,June,0.0,8.0,8,0.0,4.0,4.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Sat, 06/25/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Thu, 06/23/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+South America,"Sun, 06/26/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Mediterranean,"Tue, 07/05/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sun, 07/03/2022 - 12:00",2022,July,1.0,0.0,1,68.0,0.0,0.0,0.0,Drowning
+Caribbean,"Tue, 06/21/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,Accidental death
+North America,"Thu, 06/30/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Thu, 06/30/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Tue, 07/05/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Tue, 07/05/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Sun, 06/26/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Wed, 06/29/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Thu, 06/30/2022 - 12:00",2022,June,3.0,0.0,3,0.0,1.0,2.0,0.0,Drowning
+Central America,"Sun, 07/03/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 07/05/2022 - 12:00",2022,July,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Central America,"Thu, 05/26/2022 - 12:00",2022,May,3.0,0.0,3,0.0,0.0,3.0,0.0,Drowning
+Central America,"Thu, 05/26/2022 - 12:00",2022,May,0.0,1.0,1,0.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Mon, 07/11/2022 - 12:00",2022,July,13.0,0.0,13,0.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Western Asia,"Sat, 07/09/2022 - 12:00",2022,July,0.0,1.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Sat, 06/25/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Western Africa,"Thu, 06/30/2022 - 12:00",2022,June,10.0,0.0,10,0.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Thu, 07/14/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Eastern Africa,"Thu, 06/09/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,Mixed or unknown
+Eastern Africa,"Sat, 06/18/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Eastern Africa,"Sun, 06/26/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,Mixed or unknown
+Eastern Africa,"Fri, 06/24/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Eastern Africa,"Wed, 06/15/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Eastern Africa,"Fri, 06/10/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 06/16/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Thu, 07/07/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Sun, 07/10/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+South America,"Mon, 07/11/2022 - 12:00",2022,July,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+South America,"Mon, 07/11/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Sat, 06/18/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Mon, 07/11/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Tue, 07/05/2022 - 12:00",2022,July,0.0,1.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Central America,"Tue, 07/05/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Northern Africa,"Thu, 07/14/2022 - 12:00",2022,July,2.0,0.0,2,49.0,1.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Wed, 07/20/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 07/16/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Thu, 06/23/2022 - 12:00",2022,June,0.0,14.0,14,60.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 07/06/2022 - 12:00",2022,July,3.0,0.0,3,25.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 07/09/2022 - 12:00",2022,July,0.0,29.0,29,1.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 07/08/2022 - 12:00",2022,July,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Sun, 07/03/2022 - 12:00",2022,July,2.0,0.0,2,0.0,2.0,0.0,1.0,Drowning
+Central America,"Fri, 07/15/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Fri, 07/15/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Fri, 07/15/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Mon, 07/18/2022 - 12:00",2022,July,2.0,0.0,2,35.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Mon, 07/18/2022 - 12:00",2022,July,2.0,0.0,2,0.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Mon, 07/18/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+North America,"Tue, 07/19/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+South-eastern Asia,"Sat, 07/16/2022 - 12:00",2022,July,2.0,0.0,2,13.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Thu, 07/07/2022 - 12:00",2022,July,9.0,0.0,9,43.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Sun, 07/24/2022 - 12:00",2022,July,2.0,0.0,2,109.0,0.0,2.0,0.0,Drowning
+Mediterranean,"Sun, 07/24/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sun, 07/24/2022 - 12:00",2022,July,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 07/24/2022 - 12:00",2022,July,0.0,2.0,2,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 07/23/2022 - 12:00",2022,July,5.0,0.0,5,674.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Mon, 07/25/2022 - 12:00",2022,July,1.0,5.0,6,35.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Mon, 07/25/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,1.0,Drowning
+Northern Africa,"Mon, 07/25/2022 - 12:00",2022,July,6.0,0.0,6,0.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Mon, 07/25/2022 - 12:00",2022,July,8.0,0.0,8,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 07/27/2022 - 12:00",2022,July,0.0,12.0,12,2.0,0.0,0.0,0.0,Drowning
+Caribbean,"Sun, 07/24/2022 - 12:00",2022,July,17.0,0.0,17,25.0,15.0,1.0,1.0,Drowning
+Western Asia,"Sun, 07/24/2022 - 12:00",2022,July,1.0,0.0,1,3.0,0.0,0.0,0.0,Violence
+Mediterranean,"Wed, 07/27/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 07/27/2022 - 12:00",2022,July,2.0,0.0,2,23.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 07/29/2022 - 12:00",2022,July,0.0,26.0,26,4.0,0.0,0.0,0.0,Drowning
+Central America,"Wed, 07/27/2022 - 12:00",2022,July,15.0,0.0,15,47.0,5.0,8.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Wed, 07/27/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Caribbean,"Thu, 07/28/2022 - 12:00",2022,July,5.0,0.0,5,68.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Tue, 07/26/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+North America,"Fri, 05/27/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Thu, 06/09/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Fri, 07/15/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Sat, 07/16/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 07/19/2022 - 12:00",2022,July,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+North America,"Tue, 07/19/2022 - 12:00",2022,July,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Caribbean,"Sun, 07/24/2022 - 12:00",2022,July,17.0,3.0,20,25.0,14.0,1.0,2.0,Drowning
+Central America,"Wed, 07/20/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Fri, 07/22/2022 - 12:00",2022,July,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Fri, 07/22/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 05/24/2022 - 12:00",2022,May,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+North America,"Fri, 07/22/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 07/18/2022 - 12:00",2022,July,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Wed, 07/27/2022 - 12:00",2022,July,2.0,0.0,2,11.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Thu, 06/23/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Mon, 07/11/2022 - 12:00",2022,July,1.0,0.0,1,3.0,0.0,0.0,0.0,Drowning
+North America,"Sun, 07/24/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,1.0,Sickness / lack of access to adequate healthcare
+North America,"Mon, 06/27/2022 - 12:00",2022,June,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Northern Africa,"Mon, 02/21/2022 - 12:00",2022,February,2.0,0.0,2,3.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Tue, 02/22/2022 - 12:00",2022,February,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Northern Africa,"Thu, 03/03/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Northern Africa,"Fri, 03/04/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Northern Africa,"Mon, 03/14/2022 - 12:00",2022,March,1.0,0.0,1,0.0,1.0,0.0,0.0,Accidental death
+Northern Africa,"Wed, 03/23/2022 - 12:00",2022,March,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Northern Africa,"Sat, 06/11/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Mediterranean,"Thu, 08/04/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Western Africa,"Fri, 08/05/2022 - 12:00",2022,August,2.0,0.0,2,116.0,0.0,2.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Sat, 08/06/2022 - 12:00",2022,August,2.0,5.0,7,8.0,0.0,0.0,0.0,Drowning
+Europe,"Fri, 08/05/2022 - 12:00",2022,August,3.0,0.0,3,12.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Tue, 08/09/2022 - 12:00",2022,August,6.0,8.0,14,6.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 08/03/2022 - 12:00",2022,August,2.0,0.0,2,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Tue, 08/09/2022 - 12:00",2022,August,3.0,1.0,4,8.0,0.0,0.0,0.0,Drowning
+South-eastern Asia,"Mon, 08/08/2022 - 12:00",2022,August,1.0,0.0,1,35.0,0.0,1.0,0.0,Drowning
+Europe,"Thu, 07/21/2022 - 12:00",2022,July,1.0,0.0,1,3.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Sat, 07/30/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Wed, 08/10/2022 - 12:00",2022,August,2.0,0.0,2,0.0,0.0,1.0,1.0,Drowning
+Central America,"Wed, 08/10/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Wed, 08/10/2022 - 12:00",2022,August,0.0,31.0,31,29.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 08/11/2022 - 12:00",2022,August,8.0,2.0,10,20.0,3.0,0.0,4.0,Drowning
+Northern Africa,"Thu, 08/11/2022 - 12:00",2022,August,1.0,0.0,1,62.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Wed, 08/10/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Mediterranean,"Tue, 08/09/2022 - 12:00",2022,August,1.0,0.0,1,38.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 08/04/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+North America,"Tue, 08/09/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+North America,"Tue, 08/09/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Thu, 08/11/2022 - 12:00",2022,August,3.0,0.0,3,0.0,0.0,3.0,0.0,Accidental death
+Eastern Africa,"Sun, 07/10/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Mon, 08/08/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Fri, 07/29/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Sat, 07/30/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Mon, 08/01/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 08/01/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+North America,"Sun, 08/07/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Sun, 07/31/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Sun, 07/31/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+North America,"Tue, 08/02/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Sun, 07/31/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Mon, 06/20/2022 - 12:00",2022,June,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 08/04/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 08/04/2022 - 12:00",2022,August,1.0,0.0,1,5.0,0.0,0.0,0.0,Accidental death
+Central America,"Wed, 08/03/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Wed, 08/03/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+North America,"Thu, 06/02/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,2.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Fri, 08/05/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Central America,"Sat, 08/06/2022 - 12:00",2022,August,1.0,0.0,1,20.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Thu, 08/11/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Northern Africa,"Tue, 08/09/2022 - 12:00",2022,August,15.0,2.0,17,9.0,0.0,15.0,2.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Mon, 08/08/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Mon, 08/08/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Mon, 08/08/2022 - 12:00",2022,August,0.0,1.0,1,0.0,0.0,0.0,1.0,Drowning
+Europe,"Sat, 08/13/2022 - 12:00",2022,August,1.0,0.0,1,17.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Sat, 08/13/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Sat, 08/13/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 08/12/2022 - 12:00",2022,August,3.0,0.0,3,10.0,2.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 08/12/2022 - 12:00",2022,August,2.0,0.0,2,0.0,2.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 08/12/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,1.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 08/12/2022 - 12:00",2022,August,2.0,0.0,2,0.0,2.0,0.0,1.0,Vehicle accident / death linked to hazardous transport
+Europe,"Thu, 08/04/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Europe,"Wed, 07/27/2022 - 12:00",2022,July,3.0,0.0,3,0.0,0.0,0.0,0.0,Mixed or unknown
+Europe,"Sun, 08/07/2022 - 12:00",2022,August,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Tue, 08/09/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Fri, 08/12/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Northern Africa,"Sun, 08/14/2022 - 12:00",2022,August,3.0,0.0,3,45.0,0.0,3.0,0.0,Drowning
+North America,"Mon, 08/15/2022 - 12:00",2022,August,1.0,0.0,1,7.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Sun, 08/14/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 08/16/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South-eastern Asia,"Wed, 08/17/2022 - 12:00",2022,August,3.0,0.0,3,30.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Tue, 05/31/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sun, 05/08/2022 - 12:00",2022,May,0.0,3.0,3,0.0,0.0,3.0,0.0,Drowning
+Europe,"Fri, 08/19/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+North America,"Tue, 08/02/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Tue, 07/19/2022 - 12:00",2022,July,0.0,1.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 07/18/2022 - 12:00",2022,July,1.0,0.0,1,1.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Wed, 08/17/2022 - 12:00",2022,August,1.0,0.0,1,2.0,0.0,1.0,0.0,Drowning
+North America,"Sun, 07/17/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 05/17/2022 - 12:00",2022,May,0.0,1.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Central America,"Fri, 08/19/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Central America,"Thu, 08/18/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Wed, 08/17/2022 - 12:00",2022,August,3.0,0.0,3,0.0,0.0,3.0,0.0,Drowning
+Europe,"Sun, 08/21/2022 - 12:00",2022,August,14.0,0.0,14,3.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Caribbean,"Sun, 08/21/2022 - 12:00",2022,August,2.0,0.0,2,16.0,1.0,1.0,0.0,Drowning
+Mediterranean,"Fri, 08/19/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sat, 08/20/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Northern Africa,"Mon, 08/22/2022 - 12:00",2022,August,6.0,3.0,9,38.0,0.0,3.0,0.0,Drowning
+Northern Africa,"Mon, 08/22/2022 - 12:00",2022,August,0.0,9.0,9,0.0,0.0,0.0,0.0,Drowning
+North America,"Sun, 08/21/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 08/23/2022 - 12:00",2022,August,1.0,0.0,1,0.0,1.0,0.0,1.0,Drowning
+North America,"Tue, 08/23/2022 - 12:00",2022,August,2.0,0.0,2,2.0,0.0,2.0,1.0,Drowning
+Mediterranean,"Tue, 08/23/2022 - 12:00",2022,August,5.0,0.0,5,0.0,1.0,4.0,1.0,Drowning
+Mediterranean,"Sun, 08/21/2022 - 12:00",2022,August,3.0,0.0,3,0.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Wed, 08/10/2022 - 12:00",2022,August,6.0,0.0,6,1.0,2.0,0.0,4.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Tue, 08/23/2022 - 12:00",2022,August,1.0,0.0,1,346.0,0.0,1.0,0.0,Accidental death
+Central America,"Sun, 08/21/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Northern Africa,"Sun, 08/14/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,1.0,Mixed or unknown
+Europe,"Fri, 08/19/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Western Asia,"Tue, 08/09/2022 - 12:00",2022,August,0.0,1.0,1,0.0,0.0,1.0,1.0,Drowning
+Europe,"Thu, 08/11/2022 - 12:00",2022,August,2.0,0.0,2,0.0,0.0,0.0,0.0,Mixed or unknown
+Europe,"Sat, 08/13/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Thu, 08/11/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Western Asia,"Sat, 08/20/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Sun, 08/14/2022 - 12:00",2022,August,0.0,7.0,7,2.0,1.0,0.0,1.0,Drowning
+North America,"Mon, 08/15/2022 - 12:00",2022,August,1.0,0.0,1,6.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Thu, 08/18/2022 - 12:00",2022,August,1.0,0.0,1,0.0,1.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 08/05/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Sun, 08/21/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South America,"Wed, 08/17/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Central America,"Thu, 08/25/2022 - 12:00",2022,August,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 08/25/2022 - 12:00",2022,August,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Sun, 08/14/2022 - 12:00",2022,August,0.0,5.0,5,0.0,3.0,2.0,3.0,Mixed or unknown
+Central America,"Thu, 07/28/2022 - 12:00",2022,July,0.0,1.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Mediterranean,"Fri, 08/12/2022 - 12:00",2022,August,2.0,0.0,2,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 08/13/2022 - 12:00",2022,August,0.0,25.0,25,11.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 08/27/2022 - 12:00",2022,August,2.0,19.0,21,6.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Mon, 08/29/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Europe,"Wed, 08/24/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+South-eastern Asia,"Sun, 08/28/2022 - 12:00",2022,August,4.0,0.0,4,9.0,1.0,2.0,1.0,Vehicle accident / death linked to hazardous transport
+Europe,"Sat, 08/27/2022 - 12:00",2022,August,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Sun, 08/28/2022 - 12:00",2022,August,0.0,13.0,13,1.0,0.0,6.0,2.0,Drowning
+Europe,"Thu, 09/01/2022 - 12:00",2022,September,4.0,0.0,4,8.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Fri, 09/02/2022 - 12:00",2022,September,0.0,21.0,21,37.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Fri, 08/26/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+Central America,"Wed, 08/17/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Thu, 08/25/2022 - 12:00",2022,August,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 08/25/2022 - 12:00",2022,August,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Sat, 08/20/2022 - 12:00",2022,August,1.0,0.0,1,0.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 08/29/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 08/29/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Western Asia,"Sat, 01/08/2022 - 12:00",2022,January,2.0,0.0,2,0.0,0.0,0.0,0.0,Drowning
+Western Asia,"Wed, 04/20/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Western Asia,"Wed, 04/13/2022 - 12:00",2022,April,1.0,0.0,1,0.0,1.0,0.0,0.0,Drowning
+Europe,"Thu, 06/16/2022 - 12:00",2022,June,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Europe,"Thu, 07/07/2022 - 12:00",2022,July,2.0,0.0,2,180.0,0.0,1.0,0.0,Violence
+Europe,"Fri, 07/08/2022 - 12:00",2022,July,1.0,0.0,1,1.0,0.0,1.0,0.0,Drowning
+Western Asia,"Fri, 08/26/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sun, 09/04/2022 - 12:00",2022,September,0.0,4.0,4,15.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 08/31/2022 - 12:00",2022,August,5.0,0.0,5,0.0,0.0,0.0,0.0,Drowning
+Southern Asia,"Mon, 09/05/2022 - 12:00",2022,September,1.0,0.0,1,4.0,0.0,1.0,0.0,Violence
+Southern Asia,"Sat, 09/03/2022 - 12:00",2022,September,1.0,0.0,1,1.0,0.0,0.0,1.0,Violence
+Mediterranean,"Sat, 09/03/2022 - 12:00",2022,September,1.0,0.0,1,6.0,0.0,1.0,0.0,Drowning
+Northern Africa,"Mon, 09/05/2022 - 12:00",2022,September,1.0,0.0,1,55.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Wed, 09/07/2022 - 12:00",2022,September,1.0,0.0,1,61.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Wed, 09/07/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Sat, 04/09/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,1.0,Drowning
+North America,"Wed, 04/13/2022 - 12:00",2022,April,1.0,0.0,1,0.0,0.0,1.0,0.0,Accidental death
+Mediterranean,"Thu, 09/08/2022 - 12:00",2022,September,6.0,14.0,20,17.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 09/15/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 09/15/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 09/15/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 09/18/2022 - 12:00",2022,September,3.0,0.0,3,0.0,0.0,0.0,0.0,Drowning
+Central America,"Thu, 09/01/2022 - 12:00",2022,September,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Central America,"Thu, 09/01/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Sun, 09/04/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 08/30/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+South America,"Wed, 07/06/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Tue, 08/02/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Mon, 09/12/2022 - 12:00",2022,September,0.0,6.0,6,26.0,2.0,0.0,3.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Tue, 09/13/2022 - 12:00",2022,September,6.0,0.0,6,73.0,1.0,0.0,5.0,Drowning
+Mediterranean,"Tue, 09/13/2022 - 12:00",2022,September,0.0,5.0,5,0.0,0.0,3.0,2.0,Drowning
+Northern Africa,"Sun, 09/11/2022 - 12:00",2022,September,1.0,0.0,1,34.0,1.0,0.0,0.0,Violence
+Southern Africa,"Mon, 09/12/2022 - 12:00",2022,September,1.0,0.0,1,43.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Sun, 08/07/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Sun, 08/07/2022 - 12:00",2022,August,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Central America,"Wed, 01/05/2022 - 12:00",2022,January,3.0,0.0,3,0.0,0.0,1.0,2.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Caribbean,"Fri, 08/05/2022 - 12:00",2022,August,2.0,5.0,7,8.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sat, 09/10/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Tue, 09/13/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Wed, 09/14/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Fri, 09/16/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Tue, 08/30/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Central America,"Mon, 09/12/2022 - 12:00",2022,September,3.0,0.0,3,0.0,3.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Tue, 09/13/2022 - 12:00",2022,September,1.0,0.0,1,4.0,1.0,0.0,0.0,Accidental death
+Western Asia,"Thu, 09/08/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Mon, 09/12/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Mediterranean,"Mon, 09/12/2022 - 12:00",2022,September,1.0,0.0,1,117.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Mediterranean,"Thu, 09/15/2022 - 12:00",2022,September,0.0,1.0,1,19.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 09/17/2022 - 12:00",2022,September,1.0,0.0,1,59.0,0.0,0.0,0.0,Violence
+Mediterranean,"Fri, 09/16/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Fri, 09/16/2022 - 12:00",2022,September,1.0,0.0,1,3.0,0.0,1.0,0.0,Violence
+Mediterranean,"Fri, 09/16/2022 - 12:00",2022,September,5.0,1.0,6,14.0,1.0,1.0,3.0,Drowning
+Mediterranean,"Thu, 09/15/2022 - 12:00",2022,September,1.0,0.0,1,13.0,0.0,1.0,0.0,Drowning
+Central America,"Sat, 08/06/2022 - 12:00",2022,August,1.0,0.0,1,3.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Europe,"Sat, 09/10/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Thu, 08/25/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Europe,"Thu, 09/15/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Sat, 09/17/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Thu, 09/08/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Western Asia,"Fri, 09/02/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Europe,"Sun, 08/28/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Europe,"Tue, 08/09/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Tue, 09/20/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Tue, 09/20/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Western Asia,"Wed, 09/21/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Sun, 09/18/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Sun, 09/18/2022 - 12:00",2022,September,0.0,1.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Sat, 09/17/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 09/19/2022 - 12:00",2022,September,1.0,0.0,1,2.0,0.0,0.0,1.0,Drowning
+Central America,"Wed, 09/21/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Wed, 09/21/2022 - 12:00",2022,September,1.0,0.0,1,17.0,0.0,0.0,1.0,Violence
+Mediterranean,"Thu, 09/22/2022 - 12:00",2022,September,102.0,20.0,122,20.0,0.0,0.0,3.0,Drowning
+Mediterranean,"Thu, 09/22/2022 - 12:00",2022,September,0.0,6.0,6,49.0,0.0,0.0,0.0,Drowning
+North America,"Thu, 09/22/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Thu, 09/15/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Mon, 09/19/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Mon, 09/19/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South-eastern Asia,"Thu, 09/22/2022 - 12:00",2022,September,1.0,19.0,20,21.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 09/22/2022 - 12:00",2022,September,0.0,2.0,2,22.0,1.0,0.0,0.0,Drowning
+Europe,"Fri, 07/29/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Europe,"Thu, 08/25/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Eastern Asia,"Tue, 09/20/2022 - 12:00",2022,September,1.0,0.0,1,2.0,0.0,1.0,0.0,Drowning
+Caribbean,"Fri, 09/02/2022 - 12:00",2022,September,6.0,0.0,6,0.0,1.0,5.0,0.0,Drowning
+Central America,"Wed, 08/31/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Fri, 09/02/2022 - 12:00",2022,September,2.0,0.0,2,0.0,1.0,1.0,0.0,Drowning
+North America,"Thu, 09/01/2022 - 12:00",2022,September,8.0,0.0,8,0.0,0.0,0.0,0.0,Drowning
+North America,"Thu, 09/01/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Tue, 09/13/2022 - 12:00",2022,September,1.0,0.0,1,50.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 08/31/2022 - 12:00",2022,August,2.0,0.0,2,0.0,0.0,0.0,0.0,Drowning
+South-eastern Asia,"Thu, 09/22/2022 - 12:00",2022,September,1.0,10.0,11,30.0,1.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 09/23/2022 - 12:00",2022,September,2.0,1.0,3,46.0,2.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 09/24/2022 - 12:00",2022,September,6.0,1.0,7,15.0,1.0,1.0,4.0,Drowning
+Mediterranean,"Thu, 09/08/2022 - 12:00",2022,September,0.0,33.0,33,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 06/29/2022 - 12:00",2022,June,5.0,0.0,5,108.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 08/07/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 08/27/2022 - 12:00",2022,August,3.0,0.0,3,0.0,0.0,0.0,0.0,Drowning
+Western Asia,"Fri, 09/23/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Mediterranean,"Sun, 09/25/2022 - 12:00",2022,September,0.0,4.0,4,10.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Wed, 09/28/2022 - 12:00",2022,September,8.0,24.0,32,8.0,1.0,7.0,0.0,Drowning
+Central America,"Wed, 09/21/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,1.0,Violence
+Central America,"Wed, 09/21/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Central America,"Thu, 09/22/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+South America,"Wed, 09/21/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Mon, 09/12/2022 - 12:00",2022,September,1.0,0.0,1,8.0,1.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 09/20/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Mon, 09/26/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Mon, 09/26/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Sun, 09/25/2022 - 12:00",2022,September,1.0,0.0,1,5.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Wed, 09/07/2022 - 12:00",2022,September,1.0,0.0,1,3.0,1.0,0.0,0.0,Sickness / lack of access to adequate healthcare
+Mediterranean,"Mon, 05/16/2022 - 12:00",2022,May,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Mediterranean,"Mon, 05/16/2022 - 12:00",2022,May,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Wed, 09/28/2022 - 12:00",2022,September,1.0,18.0,19,9.0,0.0,0.0,0.0,Drowning
+Central America,"Fri, 09/30/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Northern Africa,"Sun, 10/02/2022 - 12:00",2022,October,4.0,29.0,33,1.0,0.0,0.0,0.0,Drowning
+North America,"Sun, 10/02/2022 - 12:00",2022,October,3.0,0.0,3,3.0,0.0,2.0,0.0,Vehicle accident / death linked to hazardous transport
+Europe,"Sun, 10/02/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Tue, 10/04/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Southern Asia,"Tue, 10/04/2022 - 12:00",2022,October,3.0,2.0,5,45.0,3.0,0.0,0.0,Drowning
+North America,"Fri, 09/23/2022 - 12:00",2022,September,1.0,0.0,1,12.0,0.0,0.0,0.0,Violence
+Central America,"Thu, 09/29/2022 - 12:00",2022,September,1.0,0.0,1,0.0,1.0,0.0,0.0,Mixed or unknown
+Mediterranean,"Thu, 10/06/2022 - 12:00",2022,October,18.0,0.0,18,28.0,16.0,1.0,1.0,Drowning
+Mediterranean,"Wed, 10/05/2022 - 12:00",2022,October,0.0,15.0,15,80.0,0.0,0.0,0.0,Drowning
+Central America,"Wed, 09/28/2022 - 12:00",2022,September,1.0,2.0,3,9.0,0.0,0.0,1.0,Drowning
+Central America,"Sun, 08/14/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+North America,"Wed, 09/28/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Thu, 09/29/2022 - 12:00",2022,September,1.0,0.0,1,9.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Thu, 09/29/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Mixed or unknown
+Mediterranean,"Mon, 10/03/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Tue, 09/20/2022 - 12:00",2022,September,3.0,0.0,3,38.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 09/24/2022 - 12:00",2022,September,0.0,17.0,17,0.0,2.0,0.0,1.0,Drowning
+Europe,"Fri, 03/25/2022 - 12:00",2022,March,1.0,0.0,1,3.0,0.0,1.0,0.0,Accidental death
+South America,"Sat, 09/24/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+North America,"Tue, 09/27/2022 - 12:00",2022,September,1.0,0.0,1,0.0,1.0,0.0,0.0,Accidental death
+North America,"Wed, 09/28/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+North America,"Thu, 09/22/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+North America,"Thu, 09/01/2022 - 12:00",2022,September,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Caribbean,"Sat, 10/01/2022 - 12:00",2022,October,0.0,17.0,17,5.0,0.0,0.0,0.0,Drowning
+Eastern Africa,"Thu, 08/18/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Eastern Africa,"Thu, 09/01/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Violence
+Eastern Africa,"Sat, 07/09/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Eastern Africa,"Sun, 07/31/2022 - 12:00",2022,July,2.0,0.0,2,0.0,0.0,1.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Eastern Africa,"Sat, 07/16/2022 - 12:00",2022,July,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Eastern Africa,"Mon, 08/08/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Eastern Africa,"Sun, 08/14/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Eastern Africa,"Mon, 08/15/2022 - 12:00",2022,August,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Eastern Africa,"Sun, 09/18/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Eastern Africa,"Sun, 09/25/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Mediterranean,"Tue, 09/27/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sat, 10/08/2022 - 12:00",2022,October,3.0,0.0,3,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Fri, 10/07/2022 - 12:00",2022,October,11.0,0.0,11,195.0,0.0,0.0,0.0,Violence
+Mediterranean,"Fri, 10/07/2022 - 12:00",2022,October,4.0,0.0,4,0.0,0.0,0.0,0.0,Violence
+Mediterranean,"Fri, 10/07/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,0.0,0.0,Violence
+Europe,"Thu, 10/06/2022 - 12:00",2022,October,2.0,0.0,2,0.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Wed, 10/05/2022 - 12:00",2022,October,10.0,4.0,14,1.0,0.0,12.0,0.0,Drowning
+Mediterranean,"Mon, 10/10/2022 - 12:00",2022,October,8.0,9.0,17,0.0,2.0,0.0,1.0,Drowning
+North America,"Tue, 10/11/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Tue, 10/11/2022 - 12:00",2022,October,2.0,0.0,2,0.0,0.0,2.0,0.0,Drowning
+Central America,"Fri, 10/07/2022 - 12:00",2022,October,1.0,0.0,1,5.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+North America,"Mon, 10/10/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,1.0,0.0,Sickness / lack of access to adequate healthcare
+Central America,"Sat, 10/08/2022 - 12:00",2022,October,4.0,0.0,4,16.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Sat, 10/08/2022 - 12:00",2022,October,1.0,0.0,1,1.0,0.0,1.0,0.0,Violence
+Mediterranean,"Wed, 10/12/2022 - 12:00",2022,October,3.0,0.0,3,1.0,0.0,0.0,0.0,Drowning
+Central America,"Thu, 10/06/2022 - 12:00",2022,October,1.0,0.0,1,0.0,1.0,0.0,0.0,Violence
+Northern Africa,"Tue, 10/11/2022 - 12:00",2022,October,1.0,0.0,1,56.0,1.0,0.0,0.0,Mixed or unknown
+Central America,"Tue, 10/11/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Central America,"Wed, 10/12/2022 - 12:00",2022,October,1.0,0.0,1,13.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+Mediterranean,"Thu, 10/13/2022 - 12:00",2022,October,15.0,0.0,15,0.0,0.0,0.0,0.0,Drowning
+Central America,"Thu, 10/13/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,0.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Fri, 10/14/2022 - 12:00",2022,October,1.0,0.0,1,104.0,0.0,0.0,1.0,Mixed or unknown
+Central America,"Tue, 09/27/2022 - 12:00",2022,September,1.0,0.0,1,4.0,1.0,0.0,0.0,Drowning
+Central America,"Thu, 10/06/2022 - 12:00",2022,October,5.0,0.0,5,11.0,1.0,4.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Fri, 10/07/2022 - 12:00",2022,October,1.0,0.0,1,1.0,0.0,1.0,0.0,Violence
+Central America,"Sat, 09/17/2022 - 12:00",2022,September,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Central America,"Mon, 10/10/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,0.0,1.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Central America,"Mon, 10/10/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,1.0,0.0,Drowning
+Mediterranean,"Sat, 10/08/2022 - 12:00",2022,October,1.0,0.0,1,5.0,0.0,1.0,1.0,Drowning
+North America,"Sun, 10/16/2022 - 12:00",2022,October,2.0,0.0,2,12.0,0.0,0.0,0.0,Vehicle accident / death linked to hazardous transport
+South America,"Sat, 10/15/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,1.0,0.0,Mixed or unknown
+Central America,"Thu, 10/13/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,1.0,0.0,"Harsh environmental conditions / lack of adequate shelter, food, water"
+Mediterranean,"Sun, 10/09/2022 - 12:00",2022,October,0.0,9.0,9,270.0,0.0,0.0,4.0,Drowning
+Mediterranean,"Sun, 10/09/2022 - 12:00",2022,October,0.0,5.0,5,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 10/09/2022 - 12:00",2022,October,0.0,4.0,4,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 10/09/2022 - 12:00",2022,October,4.0,10.0,14,88.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 10/09/2022 - 12:00",2022,October,4.0,6.0,10,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 10/09/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 10/09/2022 - 12:00",2022,October,0.0,1.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Sun, 10/09/2022 - 12:00",2022,October,0.0,1.0,1,0.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Mon, 10/10/2022 - 12:00",2022,October,0.0,12.0,12,97.0,0.0,0.0,0.0,Drowning
+Western Asia,"Sat, 10/15/2022 - 12:00",2022,October,0.0,3.0,3,4.0,0.0,3.0,0.0,Drowning
+Eastern Africa,"Tue, 10/18/2022 - 12:00",2022,October,25.0,0.0,25,0.0,0.0,25.0,0.0,Mixed or unknown
+Central America,"Tue, 10/18/2022 - 12:00",2022,October,3.0,0.0,3,5.0,0.0,3.0,0.0,Vehicle accident / death linked to hazardous transport
+Central America,"Wed, 10/19/2022 - 12:00",2022,October,1.0,0.0,1,0.0,0.0,1.0,0.0,Vehicle accident / death linked to hazardous transport
+Northern Africa,"Wed, 10/12/2022 - 12:00",2022,October,0.0,22.0,22,30.0,0.0,0.0,0.0,Drowning
+Mediterranean,"Thu, 10/13/2022 - 12:00",2022,October,2.0,5.0,7,8.0,0.0,0.0,2.0,Drowning
