@@ -19,13 +19,14 @@ The following tools were used for this project:
 - Power BI
 
 ***
-## DATA SORTING, CLEANING, AND TRANSFORMNATION USING PYTHON
-the process and code can be found in the link below
+## DATA CLEANING USING PYTHON
+The dataset used for the analysis contained 1240 rows × 21 columns. The data cleaning, sorting and transforming process was done using Python, columns that where not necessary for the analysis were dropped, null values where replaced with 0 value, duplicates were removed, and columns where renamed and after completing your data sorting, cleaning, transformation and renaming the columns, the result was written back to a file named 'missing_immigrant'.
+below is the code and dataset done using python.
 
 https://github.com/Zlimshit007/Missing-Immigrant-Global-data-2022/blob/main/missing-immigrant-globally-dataset.ipynb
 
 ***
-## DATA ANALYSIS ISING MySQL SERVER
+## DATA ANALYSIS USING MySQL SERVER
 For my analysis phase, I created a database called global_terrorism on MySQL server. I imported my csv file which i re-write from python directly to MySQL server by creating a new schema in my connected server and naming it immigrant_df
 ![Screenshot 2023-04-01 213121](https://user-images.githubusercontent.com/114537955/229312918-ee3858dc-76b4-4ab9-8ac6-10f409e14223.png)
 
