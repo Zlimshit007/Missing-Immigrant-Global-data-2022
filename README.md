@@ -1,4 +1,4 @@
-# Missing-Migrants-Project
+# MISSING-IMMIGRANTS-PROJECT
 Missing Migrants Project counts migrants  who have died at the external borders of states, or in the process of migration towards an international destination, regardless of their legal status. The Project records only those migrants who die during their journey to a country different from their country of residence.
 
 Missing Migrants Project data include the deaths of migrants who die in transportation accidents, shipwrecks, violent attacks, or due to medical complications during their journeys. It also includes the number of corpses found at border crossings that are categorized as the bodies of migrants, on the basis of belongings and/or the characteristics of the death. For instance, a death of an unidentified person might be included if the decedent is found without any identifying documentation in an area known to be on a migration route.  Deaths during migration may also be identified based on the cause of death, especially if is related to trafficking, smuggling, or means of travel such as on top of a train, in the back of a cargo truck, as a stowaway on a plane, in unseaworthy boats, or crossing a border fence.  While the location and cause of death can provide strong evidence that an unidentified decedent should be included in Missing Migrants Project data, this should always be evaluated in conjunction with migration history and trends.
@@ -18,13 +18,14 @@ The following tools were used for this project:
 - Mysql
 - Power BI
 
-## Data Sorting, Cleaning, and Transformnation using Python
+***
+## DATA SORTING, CLEANING, AND TRANSFORMNATION USING PYTHON
 the process and code can be found in the link below
 
 https://github.com/Zlimshit007/Missing-Immigrant-Global-data-2022/blob/main/missing-immigrant-globally-dataset.ipynb
 
-
-## Data Analysis using MySQL server
+***
+## DATA ANALYSIS ISING MySQL SERVER
 For my analysis phase, I created a database called global_terrorism on MySQL server. I imported my csv file which i re-write from python directly to MySQL server by creating a new schema in my connected server and naming it immigrant_df
 ![Screenshot 2023-04-01 213121](https://user-images.githubusercontent.com/114537955/229312918-ee3858dc-76b4-4ab9-8ac6-10f409e14223.png)
 
@@ -46,3 +47,7 @@ After Importing the tables, I explored the data and asked several questions to g
 
 you can find the solution here https://github.com/Zlimshit007/Missing-Immigrant-Global-data-2022/blob/main/mySQL%20Analysis%20of%20the%20data.md
 
+***
+## VISULIZATION
+
+After analyzing the data in MySQL server, the dataset were imported into PowerBI to create visualizations to better understand the data and identify trends and patterns. The dashboard was designed to answer the questions posed during the analysis phase.
