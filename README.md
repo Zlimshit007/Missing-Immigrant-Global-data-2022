@@ -66,6 +66,7 @@ In the "Navigator" window, i then selected the data i need, and then either load
 
 Then my data was ready for visualization, The dashboard was designed to answer the questions posed during the analysis phase, click on the link below to view my report.
 
+https://github.com/Zlimshit007/Missing-Immigrant-Global-data-2022/blob/main/Data%20Visualization%20with%20Power%20Bi.md
 
 
 
